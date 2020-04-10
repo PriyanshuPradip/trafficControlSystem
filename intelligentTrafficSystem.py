@@ -95,4 +95,4 @@ while max(arrCarsAtPoints)>0:
     for i in range(4):
         if arrCarsAtPoints[i]<0:
             arrCarsAtPoints[i]= 0
-        print("\tCars POINT ( ",i+1," ) --> ",arrCarsAtPoints[i])            
+        print("\tCars POINT ( ",i+1," ) --> ",arrCarsAtPoints[i])         
